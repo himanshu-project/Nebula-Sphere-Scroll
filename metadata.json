@@ -1,0 +1,5 @@
+{
+  "name": "Nebula Sphere Scroll",
+  "description": "A 3D interactive nebula sphere using custom shaders and GSAP scroll animations.",
+  "requestFramePermissions": []
+}
